@@ -1,6 +1,6 @@
 3.	---
 4.	
-5.	layout: slide
+5.	**it aint necessarily so**
 6.	
 7.	title: "Welcome to our second slide!"
 8.	
